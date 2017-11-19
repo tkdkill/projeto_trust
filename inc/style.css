@@ -1,0 +1,68 @@
+/* css do projeto Trust */
+body{
+    background-color: black;
+}
+
+.borda{
+    /*classe temporária*/
+    border: 1px solid red; 
+}
+
+
+.contentor-global{
+    padding: 50px;
+    margin: 30px auto;
+    background-color: #EFEFEF;
+   
+}
+.margem-top-5 {margin-top: 5px;}
+.margem-top-10 {margin-top: 10px;}
+.margem-top-20 { margin-top: 20px;}
+
+.contentor-navegacao{
+    background-image: url("../images/imag_menu_background.jpg");
+    background-repeat: repeat-x;
+    padding: 5px;
+    color: white;
+
+}
+
+.contentor-navegacao a{
+    text-decoration: none;
+    color: white;
+    margin: 0px  20px;
+}
+
+.contentor-navegacao a:hover {
+    text-decoration: none;
+    color: rgb(121, 155, 206);
+}
+
+.barra-branca{
+    background-color: white;
+    padding: 15px;
+}
+
+.imagem-social{
+    background-image: url('../images/imagem_social.jpg');
+    height: 600px;
+    /* background-repeat: no-repeat; */
+    display: table;
+    width: 100%;
+    /* background-size:100% 100%; */
+}
+.colucar-fundo {
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
+}
+.botao{
+    font-size: 2em;
+    padding: 5px 50px;
+    margin: 50px;
+    /* position: relative;
+    right: -100px;
+    bottom: -400px; */
+
+}
+
