@@ -3,7 +3,8 @@ body{
     background-color: black;
 }
 
-.borda{
+
+.x{
     /*classe temporária*/
     border: 1px solid red; 
 }
@@ -57,12 +58,11 @@ body{
     vertical-align: bottom;
 }
 .botao{
-    font-size: 2em;
-    padding: 5px 50px;
-    margin: 50px;
-    /* position: relative;
-    right: -100px;
-    bottom: -400px; */
+    font-size: 1.5em;
+    padding: 5px 30px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    white-space: normal;
 
 }
 
