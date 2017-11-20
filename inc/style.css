@@ -66,3 +66,15 @@ body{
 
 }
 
+.espaco-services{
+    padding: 20px 0;
+}
+.espaco-caixas{
+    padding: 20px;
+}
+
+.titulo-caixa{
+    font-size: 1.3em;
+    font-weight: bold;
+    
+}
