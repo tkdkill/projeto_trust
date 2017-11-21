@@ -12,7 +12,7 @@ body{
 
 .contentor-global{
     padding: 50px;
-    margin: 30px auto;
+    margin-top: 30px;
     background-color: #EFEFEF;
    
 }
@@ -21,9 +21,10 @@ body{
 .margem-top-20 { margin-top: 20px;}
 
 .contentor-navegacao{
-    background-image: url("../images/imag_menu_background.jpg");
-    background-repeat: repeat-x;
-    padding: 5px;
+   /*  background-image: url("../images/imag_menu_background.jpg");
+    background-repeat: repeat-x; */
+    background-color: rgb(66, 66, 66);
+    padding: 20px;
     color: white;
 
 }
@@ -34,6 +35,10 @@ body{
     margin: 0px  20px;
 }
 
+.text-navegacao{
+    font-size: 1.2em;
+    padding: 5px;
+}
 .contentor-navegacao a:hover {
     text-decoration: none;
     color: rgb(121, 155, 206);
@@ -77,4 +82,12 @@ body{
     font-size: 1.3em;
     font-weight: bold;
     
+}
+
+.rodape{
+    color: white;
+    background-color: #282C2F;
+}
+.caixa-rodape{
+    padding: 40px;
 }
