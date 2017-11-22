@@ -87,7 +87,9 @@ body{
 .rodape{
     color: white;
     background-color: #282C2F;
+    padding: 30px;
 }
 .caixa-rodape{
     padding: 40px;
+    margin-bottom: 10px;
 }
